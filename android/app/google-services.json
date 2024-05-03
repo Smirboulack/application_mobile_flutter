@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227143731988",
+    "project_id": "sevenjobs-ea8a8",
+    "storage_bucket": "sevenjobs-ea8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227143731988:android:2fed6b0f10715f7d7b5001",
+        "android_client_info": {
+          "package_name": "com.seven.sevenjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227143731988-0q0eudjutehnc1pk139s8v0cc37dr9n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWmv2Twyha9KPUN5FdD5zVPvoJW6N8Y14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227143731988-0q0eudjutehnc1pk139s8v0cc37dr9n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
